@@ -1,0 +1,676 @@
+company,statement,section,metric,year,value,unit,source_file
+NVIDIA,Income Statement,General,Revenue,2024,60922.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,General,Revenue,2023,26974.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,General,Revenue,2022,26914.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,General,Cost of revenue,2024,16621.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,General,Cost of revenue,2023,11618.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,General,Cost of revenue,2022,9439.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,General,Gross profit,2024,44301.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,General,Gross profit,2023,15356.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,General,Gross profit,2022,17475.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,Operating expenses,Research and development,2024,8675.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,Operating expenses,Research and development,2023,7339.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,Operating expenses,Research and development,2022,5268.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,Operating expenses,"Sales, general and administrative",2024,2654.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,Operating expenses,"Sales, general and administrative",2023,2440.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,Operating expenses,"Sales, general and administrative",2022,2166.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,Operating expenses,Acquisition termination cost,2023,1353.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,Operating expenses,Total operating expenses,2024,11329.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,Operating expenses,Total operating expenses,2023,11132.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,Operating expenses,Total operating expenses,2022,7434.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,General,Operating income,2024,32972.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,General,Operating income,2023,4224.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,General,Operating income,2022,10041.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,General,Interest income,2024,866.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,General,Interest income,2023,267.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,General,Interest income,2022,29.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,General,Interest expense,2024,-257.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,General,Interest expense,2023,-262.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,General,Interest expense,2022,-236.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,General,"Other, net",2024,237.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,General,"Other, net",2023,-48.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,General,"Other, net",2022,107.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,General,"Other income (expense), net",2024,846.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,General,"Other income (expense), net",2023,-43.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,General,"Other income (expense), net",2022,-100.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,General,Income before income tax,2024,33818.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,General,Income before income tax,2023,4181.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,General,Income before income tax,2022,9941.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,General,Income tax expense (benefit),2024,4058.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,General,Income tax expense (benefit),2023,-187.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,General,Income tax expense (benefit),2022,189.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,General,Net income,2024,29760.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,General,Net income,2023,4368.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,General,Net income,2022,9752.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,Net income per share,Basic,2024,12.05,USD per share,NVIDIA_2024.pdf
+NVIDIA,Income Statement,Net income per share,Basic,2023,1.76,USD per share,NVIDIA_2024.pdf
+NVIDIA,Income Statement,Net income per share,Basic,2022,3.91,USD per share,NVIDIA_2024.pdf
+NVIDIA,Income Statement,Net income per share,Diluted,2024,11.93,USD per share,NVIDIA_2024.pdf
+NVIDIA,Income Statement,Net income per share,Diluted,2023,1.74,USD per share,NVIDIA_2024.pdf
+NVIDIA,Income Statement,Net income per share,Diluted,2022,3.85,USD per share,NVIDIA_2024.pdf
+NVIDIA,Income Statement,Weighted average shares used in per share computation,Basic,2024,2469.0,shares in thousands,NVIDIA_2024.pdf
+NVIDIA,Income Statement,Weighted average shares used in per share computation,Basic,2023,2487.0,shares in thousands,NVIDIA_2024.pdf
+NVIDIA,Income Statement,Weighted average shares used in per share computation,Basic,2022,2496.0,shares in thousands,NVIDIA_2024.pdf
+NVIDIA,Income Statement,Weighted average shares used in per share computation,Diluted,2024,2494.0,shares in thousands,NVIDIA_2024.pdf
+NVIDIA,Income Statement,Weighted average shares used in per share computation,Diluted,2023,2507.0,shares in thousands,NVIDIA_2024.pdf
+NVIDIA,Income Statement,Weighted average shares used in per share computation,Diluted,2022,2535.0,shares in thousands,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Current assets,Cash and cash equivalents,2024,7280.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Current assets,Cash and cash equivalents,2023,3389.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Current assets,Marketable securities,2024,18704.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Current assets,Marketable securities,2023,9907.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Current assets,"Accounts receivable, net",2024,9999.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Current assets,"Accounts receivable, net",2023,3827.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Current assets,Inventories,2024,5282.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Current assets,Inventories,2023,5159.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Current assets,Prepaid expenses and other current assets,2024,3080.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Current assets,Prepaid expenses and other current assets,2023,791.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Current assets,Total current assets,2024,44345.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Current assets,Total current assets,2023,23073.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Assets,"Property and equipment, net",2024,3914.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Assets,"Property and equipment, net",2023,3807.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Assets,Operating lease assets,2024,1346.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Assets,Operating lease assets,2023,1038.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Assets,Goodwill,2024,4430.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Assets,Goodwill,2023,4372.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Assets,"Intangible assets, net",2024,1112.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Assets,"Intangible assets, net",2023,1676.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Assets,Deferred income tax assets,2024,6081.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Assets,Deferred income tax assets,2023,3396.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Assets,Other assets,2024,4500.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Assets,Other assets,2023,3820.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Assets,Total assets,2024,65728.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Assets,Total assets,2023,41182.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Current liabilities,Accounts payable,2024,2699.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Current liabilities,Accounts payable,2023,1193.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Current liabilities,Accrued and other current liabilities,2024,6682.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Current liabilities,Accrued and other current liabilities,2023,4120.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Current liabilities,Short-term debt,2024,1250.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Current liabilities,Short-term debt,2023,1250.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Current liabilities,Total current liabilities,2024,10631.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Current liabilities,Total current liabilities,2023,6563.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Liabilities and Shareholders' Equity,Long-term debt,2024,8459.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Liabilities and Shareholders' Equity,Long-term debt,2023,9703.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Liabilities and Shareholders' Equity,Long-term operating lease liabilities,2024,1119.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Liabilities and Shareholders' Equity,Long-term operating lease liabilities,2023,902.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Liabilities and Shareholders' Equity,Other long-term liabilities,2024,2541.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Liabilities and Shareholders' Equity,Other long-term liabilities,2023,1913.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Liabilities and Shareholders' Equity,Total liabilities,2024,22750.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Liabilities and Shareholders' Equity,Total liabilities,2023,19081.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Shareholders’ equity,"Common stock, $0.001 par value; 8,000 shares authorized; 2,464 shares issued and outstanding as of January 28, 2024; 2,466 shares issued and outstanding as of January 29, 2023",2024,2.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Shareholders’ equity,"Common stock, $0.001 par value; 8,000 shares authorized; 2,464 shares issued and outstanding as of January 28, 2024; 2,466 shares issued and outstanding as of January 29, 2023",2023,2.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Shareholders’ equity,Additional paid-in capital,2024,13132.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Shareholders’ equity,Additional paid-in capital,2023,11971.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Shareholders’ equity,Accumulated other comprehensive income (loss),2024,27.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Shareholders’ equity,Accumulated other comprehensive income (loss),2023,-43.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Shareholders’ equity,Retained earnings,2024,29817.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Shareholders’ equity,Retained earnings,2023,10171.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Shareholders’ equity,Total shareholders' equity,2024,42978.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Shareholders’ equity,Total shareholders' equity,2023,22101.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Liabilities and Shareholders' Equity,Total liabilities and shareholders' equity,2024,65728.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Balance Sheet,Liabilities and Shareholders' Equity,Total liabilities and shareholders' equity,2023,41182.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Net income,2024,29760.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Net income,2023,4368.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Net income,2022,9752.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Adjustments to reconcile net income to net cash provided by operating activities,Stock-based compensation expense,2024,3549.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Adjustments to reconcile net income to net cash provided by operating activities,Stock-based compensation expense,2023,2709.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Adjustments to reconcile net income to net cash provided by operating activities,Stock-based compensation expense,2022,2004.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Adjustments to reconcile net income to net cash provided by operating activities,Depreciation and amortization,2024,1508.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Adjustments to reconcile net income to net cash provided by operating activities,Depreciation and amortization,2023,1544.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Adjustments to reconcile net income to net cash provided by operating activities,Depreciation and amortization,2022,1174.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Adjustments to reconcile net income to net cash provided by operating activities,Deferred income taxes,2024,-2489.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Adjustments to reconcile net income to net cash provided by operating activities,Deferred income taxes,2023,-2164.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Adjustments to reconcile net income to net cash provided by operating activities,Deferred income taxes,2022,-406.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Adjustments to reconcile net income to net cash provided by operating activities,"(Gains) losses on investments in non-affiliated entities, net",2024,-238.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Adjustments to reconcile net income to net cash provided by operating activities,"(Gains) losses on investments in non-affiliated entities, net",2023,45.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Adjustments to reconcile net income to net cash provided by operating activities,"(Gains) losses on investments in non-affiliated entities, net",2022,-100.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Adjustments to reconcile net income to net cash provided by operating activities,Acquisition termination cost,2024,0.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Adjustments to reconcile net income to net cash provided by operating activities,Acquisition termination cost,2023,1353.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Adjustments to reconcile net income to net cash provided by operating activities,Acquisition termination cost,2022,0.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Adjustments to reconcile net income to net cash provided by operating activities,Other,2024,-278.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Adjustments to reconcile net income to net cash provided by operating activities,Other,2023,-7.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Adjustments to reconcile net income to net cash provided by operating activities,Other,2022,47.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,"Changes in operating assets and liabilities, net of acquisitions",Accounts receivable,2024,-6172.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,"Changes in operating assets and liabilities, net of acquisitions",Accounts receivable,2023,822.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,"Changes in operating assets and liabilities, net of acquisitions",Accounts receivable,2022,-2215.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,"Changes in operating assets and liabilities, net of acquisitions",Inventories,2024,-98.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,"Changes in operating assets and liabilities, net of acquisitions",Inventories,2023,-2554.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,"Changes in operating assets and liabilities, net of acquisitions",Inventories,2022,-774.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,"Changes in operating assets and liabilities, net of acquisitions",Prepaid expenses and other assets,2024,-1522.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,"Changes in operating assets and liabilities, net of acquisitions",Prepaid expenses and other assets,2023,-1517.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,"Changes in operating assets and liabilities, net of acquisitions",Prepaid expenses and other assets,2022,-1715.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,"Changes in operating assets and liabilities, net of acquisitions",Accounts payable,2024,1531.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,"Changes in operating assets and liabilities, net of acquisitions",Accounts payable,2023,-551.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,"Changes in operating assets and liabilities, net of acquisitions",Accounts payable,2022,568.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,"Changes in operating assets and liabilities, net of acquisitions",Accrued and other current liabilities,2024,2025.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,"Changes in operating assets and liabilities, net of acquisitions",Accrued and other current liabilities,2023,1341.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,"Changes in operating assets and liabilities, net of acquisitions",Accrued and other current liabilities,2022,581.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,"Changes in operating assets and liabilities, net of acquisitions",Other long-term liabilities,2024,514.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,"Changes in operating assets and liabilities, net of acquisitions",Other long-term liabilities,2023,252.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,"Changes in operating assets and liabilities, net of acquisitions",Other long-term liabilities,2022,192.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Net cash provided by operating activities,2024,28090.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Net cash provided by operating activities,2023,5641.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Net cash provided by operating activities,2022,9108.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,Proceeds from maturities of marketable securities,2024,9732.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,Proceeds from maturities of marketable securities,2023,19425.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,Proceeds from maturities of marketable securities,2022,15197.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,Proceeds from sales of marketable securities,2024,50.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,Proceeds from sales of marketable securities,2023,1806.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,Proceeds from sales of marketable securities,2022,1023.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,Purchases of marketable securities,2024,-18211.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,Purchases of marketable securities,2023,-11897.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,Purchases of marketable securities,2022,-24787.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,Purchases related to property and equipment and intangible assets,2024,-1069.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,Purchases related to property and equipment and intangible assets,2023,-1833.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,Purchases related to property and equipment and intangible assets,2022,-976.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,"Acquisitions, net of cash acquired",2024,-83.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,"Acquisitions, net of cash acquired",2023,-49.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,"Acquisitions, net of cash acquired",2022,-263.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,"Investments in non-affiliated entities and other, net",2024,-985.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,"Investments in non-affiliated entities and other, net",2023,-77.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,"Investments in non-affiliated entities and other, net",2022,-24.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,Net cash provided by (used in) investing activities,2024,-10566.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,Net cash provided by (used in) investing activities,2023,7375.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,Net cash provided by (used in) investing activities,2022,-9830.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Cash Flow Statement,Cash flows from financing activities,Proceeds related to employee stock plans,2024,403.0,USD millions,NVIDIA_2024.pdf
+NVIDIA,Income Statement,General,Revenue,2025,130497.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Income Statement,General,Cost of revenue,2025,32639.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Income Statement,General,Gross profit,2025,97858.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Income Statement,Operating expenses,Research and development,2025,12914.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Income Statement,Operating expenses,"Sales, general and administrative",2025,3491.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Income Statement,Operating expenses,Total operating expenses,2025,16405.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Income Statement,General,Operating income,2025,81453.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Income Statement,General,Interest income,2025,1786.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Income Statement,General,Interest expense,2025,-247.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Income Statement,General,"Other, net",2025,1034.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Income Statement,General,"Other income (expense), net",2025,2573.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Income Statement,General,Income before income tax,2025,84026.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Income Statement,General,Income tax expense (benefit),2025,11146.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Income Statement,General,Net income,2025,72880.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Income Statement,Net income per share,Basic,2025,2.97,USD per share,NVIDIA_2025.pdf
+NVIDIA,Income Statement,Net income per share,Diluted,2025,2.94,USD per share,NVIDIA_2025.pdf
+NVIDIA,Income Statement,Weighted average shares used in per share computation,Basic,2025,24555.0,shares in thousands,NVIDIA_2025.pdf
+NVIDIA,Income Statement,Weighted average shares used in per share computation,Diluted,2025,24804.0,shares in thousands,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,Current assets,Cash and cash equivalents,2025,8589.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,Current assets,Marketable securities,2025,34621.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,Current assets,"Accounts receivable, net",2025,23065.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,Current assets,Inventories,2025,10080.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,Current assets,Prepaid expenses and other current assets,2025,3771.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,Current assets,Total current assets,2025,80126.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,General,"Property and equipment, net",2025,6283.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,General,"Property and equipment, net",2024,3914.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,General,Operating lease assets,2025,1793.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,General,Operating lease assets,2024,1346.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,General,Goodwill,2025,5188.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,General,Goodwill,2024,4430.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,General,"Intangible assets, net",2025,807.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,General,"Intangible assets, net",2024,1112.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,General,Deferred income tax assets,2025,10979.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,General,Deferred income tax assets,2024,6081.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,General,Other assets,2025,6425.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,General,Other assets,2024,4500.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,General,Total assets,2025,111601.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,General,Total assets,2024,65728.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,Current liabilities,Accounts payable,2025,6310.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,Current liabilities,Accrued and other current liabilities,2025,11737.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,Current liabilities,Short-term debt,2025,0.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,Current liabilities,Total current liabilities,2025,18047.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,General,Long-term debt,2025,8463.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,General,Long-term debt,2024,8459.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,General,Long-term operating lease liabilities,2025,1519.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,General,Long-term operating lease liabilities,2024,1119.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,General,Other long-term liabilities,2025,4245.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,General,Other long-term liabilities,2024,2541.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,General,Total liabilities,2025,32274.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,General,Total liabilities,2024,22750.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,General,Commitments and contingencies - see Note 12,2025,0.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,General,Commitments and contingencies - see Note 12,2024,0.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,Shareholders’ equity,"Preferred stock, $0.001 par value; 20 shares authorized; none issued",2025,0.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,Shareholders’ equity,"Preferred stock, $0.001 par value; 20 shares authorized; none issued",2024,0.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,Shareholders’ equity,Common stock,2025,24.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,Shareholders’ equity,Common stock,2024,25.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,Shareholders’ equity,Additional paid-in capital,2025,11237.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,Shareholders’ equity,Accumulated other comprehensive income,2025,28.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,Shareholders’ equity,Accumulated other comprehensive income,2024,27.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,Shareholders’ equity,Retained earnings,2025,68038.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,Shareholders’ equity,Total shareholders' equity,2025,79327.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,General,Total liabilities and shareholders' equity,2025,111601.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Balance Sheet,General,Total liabilities and shareholders' equity,2024,65728.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Net income,2025,72880.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Stock-based compensation expense,2025,4737.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Stock-based compensation expense,2024,3549.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Stock-based compensation expense,2023,2709.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Depreciation and amortization,2025,1864.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Depreciation and amortization,2024,1508.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Depreciation and amortization,2023,1544.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Deferred income taxes,2025,-4477.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Deferred income taxes,2024,-2489.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Deferred income taxes,2023,-2164.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,"(Gains) losses on non-marketable equity securities and publicly- held equity securities, net",2025,-1030.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,"(Gains) losses on non-marketable equity securities and publicly- held equity securities, net",2024,-238.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,"(Gains) losses on non-marketable equity securities and publicly- held equity securities, net",2023,45.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Acquisition termination cost,2023,1353.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Other,2025,-502.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Other,2024,-278.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Other,2023,-7.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Accounts receivable,2025,-13063.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Accounts receivable,2024,-6172.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Accounts receivable,2023,822.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Inventories,2025,-4781.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Inventories,2024,-98.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Inventories,2023,-2554.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Prepaid expenses and other assets,2025,-395.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Prepaid expenses and other assets,2024,-1522.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Prepaid expenses and other assets,2023,-1517.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Accounts payable,2025,3357.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Accounts payable,2024,1531.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Accounts payable,2023,-551.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Accrued and other current liabilities,2025,4278.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Accrued and other current liabilities,2024,2025.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Accrued and other current liabilities,2023,1341.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Other long-term liabilities,2025,1221.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Other long-term liabilities,2024,514.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Other long-term liabilities,2023,252.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from operating activities,Net cash provided by operating activities,2025,64089.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,Proceeds from maturities of marketable securities,2025,11195.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,Proceeds from sales of marketable securities,2025,495.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,Proceeds from sales of non-marketable equity securities,2025,171.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,Proceeds from sales of non-marketable equity securities,2024,1.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,Proceeds from sales of non-marketable equity securities,2023,8.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,Purchases of marketable securities,2025,-26575.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,Purchases related to property and equipment and intangible assets,2025,-3236.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,Purchases of non-marketable equity securities,2025,-1486.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,Purchases of non-marketable equity securities,2024,-862.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,Purchases of non-marketable equity securities,2023,-85.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,"Acquisitions, net of cash acquired",2025,-1007.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,Other,2025,22.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,Other,2024,-124.0,USD millions,NVIDIA_2025.pdf
+NVIDIA,Cash Flow Statement,Cash flows from investing activities,Net cash provided by (used in) investing activities,2025,-20421.0,USD millions,NVIDIA_2025.pdf
+Apple,Income Statement,Net sales,Products,2024,294866.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,Net sales,Products,2023,298085.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,Net sales,Products,2022,316199.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,Net sales,Services,2024,96169.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,Net sales,Services,2023,85200.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,Net sales,Services,2022,78129.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,Net sales,Total net sales,2024,391035.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,Net sales,Total net sales,2023,383285.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,Net sales,Total net sales,2022,394328.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,Cost of sales,Products,2024,185233.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,Cost of sales,Products,2023,189282.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,Cost of sales,Products,2022,201471.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,Cost of sales,Services,2024,25119.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,Cost of sales,Services,2023,24855.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,Cost of sales,Services,2022,22075.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,Cost of sales,Total cost of sales,2024,210352.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,Cost of sales,Total cost of sales,2023,214137.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,Cost of sales,Total cost of sales,2022,223546.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,General,Gross margin,2024,180683.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,General,Gross margin,2023,169148.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,General,Gross margin,2022,170782.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,Operating expenses,Research and development,2024,31370.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,Operating expenses,Research and development,2023,29915.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,Operating expenses,Research and development,2022,26251.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,Operating expenses,"Selling, general and administrative",2024,26097.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,Operating expenses,"Selling, general and administrative",2023,24932.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,Operating expenses,"Selling, general and administrative",2022,25094.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,Operating expenses,Total operating expenses,2024,57467.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,Operating expenses,Total operating expenses,2023,54847.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,Operating expenses,Total operating expenses,2022,51345.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,General,Operating income,2024,123216.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,General,Operating income,2023,114301.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,General,Operating income,2022,119437.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,General,"Other income/(expense), net",2024,269.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,General,"Other income/(expense), net",2023,-565.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,General,"Other income/(expense), net",2022,-334.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,General,Income before provision for income taxes,2024,123485.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,General,Income before provision for income taxes,2023,113736.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,General,Income before provision for income taxes,2022,119103.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,General,Provision for income taxes,2024,29749.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,General,Provision for income taxes,2023,16741.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,General,Provision for income taxes,2022,19300.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,General,Net income,2024,93736.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,General,Net income,2023,96995.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,General,Net income,2022,99803.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,Earnings per share,Basic,2024,6.11,USD per share,Apple_2024.pdf
+Apple,Income Statement,Earnings per share,Basic,2023,6.16,USD per share,Apple_2024.pdf
+Apple,Income Statement,Earnings per share,Basic,2022,6.15,USD per share,Apple_2024.pdf
+Apple,Income Statement,Earnings per share,Diluted,2024,6.08,USD per share,Apple_2024.pdf
+Apple,Income Statement,Earnings per share,Diluted,2023,6.13,USD per share,Apple_2024.pdf
+Apple,Income Statement,Earnings per share,Diluted,2022,6.11,USD per share,Apple_2024.pdf
+Apple,Income Statement,Shares used in computing earnings per share,Basic,2024,15343783.0,shares in thousands,Apple_2024.pdf
+Apple,Income Statement,Shares used in computing earnings per share,Basic,2023,15744231.0,shares in thousands,Apple_2024.pdf
+Apple,Income Statement,Shares used in computing earnings per share,Basic,2022,16215963.0,shares in thousands,Apple_2024.pdf
+Apple,Income Statement,Shares used in computing earnings per share,Diluted,2024,15408095.0,shares in thousands,Apple_2024.pdf
+Apple,Income Statement,Shares used in computing earnings per share,Diluted,2023,15812547.0,shares in thousands,Apple_2024.pdf
+Apple,Income Statement,Shares used in computing earnings per share,Diluted,2022,16325819.0,shares in thousands,Apple_2024.pdf
+Apple,Balance Sheet,Current assets,Cash and cash equivalents,2024,29943.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Current assets,Cash and cash equivalents,2023,29965.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Current assets,Marketable securities,2024,35228.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Current assets,Marketable securities,2023,31590.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Current assets,"Accounts receivable, net",2024,33410.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Current assets,"Accounts receivable, net",2023,29508.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Current assets,Vendor non-trade receivables,2024,32833.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Current assets,Vendor non-trade receivables,2023,31477.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Current assets,Inventories,2024,7286.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Current assets,Inventories,2023,6331.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Current assets,Other current assets,2024,14287.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Current assets,Other current assets,2023,14695.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Current assets,Total current assets,2024,152987.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Current assets,Total current assets,2023,143566.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Non-current assets,Marketable securities,2024,91479.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Non-current assets,Marketable securities,2023,100544.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Non-current assets,"Property, plant and equipment, net",2024,45680.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Non-current assets,"Property, plant and equipment, net",2023,43715.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Non-current assets,Other non-current assets,2024,74834.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Non-current assets,Other non-current assets,2023,64758.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Non-current assets,Total non-current assets,2024,211993.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Non-current assets,Total non-current assets,2023,209017.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,ASSETS,Total assets,2024,364980.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,ASSETS,Total assets,2023,352583.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Current liabilities,Accounts payable,2024,68960.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Current liabilities,Accounts payable,2023,62611.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Current liabilities,Other current liabilities,2024,78304.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Current liabilities,Other current liabilities,2023,58829.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Current liabilities,Deferred revenue,2024,8249.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Current liabilities,Deferred revenue,2023,8061.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Current liabilities,Commercial paper,2024,9967.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Current liabilities,Commercial paper,2023,5985.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Current liabilities,Term debt,2024,10912.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Current liabilities,Term debt,2023,9822.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Current liabilities,Total current liabilities,2024,176392.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Current liabilities,Total current liabilities,2023,145308.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Non-Current liabilities,Term debt,2024,85750.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Non-Current liabilities,Term debt,2023,95281.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Non-Current liabilities,Other non-current liabilities,2024,45888.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Non-Current liabilities,Other non-current liabilities,2023,49848.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Non-Current liabilities,Total non-current liabilities,2024,131638.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Non-Current liabilities,Total non-current liabilities,2023,145129.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,LIABILITIES,Total liabilities,2024,308030.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,LIABILITIES,Total liabilities,2023,290437.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Shareholders’ equity,"Common stock and additional paid-in capital, $0.00001 par value",2024,83276.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Shareholders’ equity,"Common stock and additional paid-in capital, $0.00001 par value",2023,73812.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Shareholders’ equity,Common stock shares authorized,2024,50400000.0,shares in thousands,Apple_2024.pdf
+Apple,Balance Sheet,Shareholders’ equity,Common stock shares authorized,2023,50400000.0,shares in thousands,Apple_2024.pdf
+Apple,Balance Sheet,Shareholders’ equity,Common stock shares issued and outstanding,2024,15116786.0,shares in thousands,Apple_2024.pdf
+Apple,Balance Sheet,Shareholders’ equity,Common stock shares issued and outstanding,2023,15550061.0,shares in thousands,Apple_2024.pdf
+Apple,Balance Sheet,Shareholders’ equity,Accumulated deficit,2024,-19154.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Shareholders’ equity,Accumulated deficit,2023,-214.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Shareholders’ equity,Accumulated other comprehensive loss,2024,-7172.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Shareholders’ equity,Accumulated other comprehensive loss,2023,-11452.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Shareholders’ equity,Total shareholders’ equity,2024,56950.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Shareholders’ equity,Total shareholders’ equity,2023,62146.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,LIABILITIES AND SHAREHOLDERS’ EQUITY,Total liabilities and shareholders’ equity,2024,364980.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,LIABILITIES AND SHAREHOLDERS’ EQUITY,Total liabilities and shareholders’ equity,2023,352583.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,General,"Cash, cash equivalents, and restricted cash and cash equivalents, beginning balances",2024,30737.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,General,"Cash, cash equivalents, and restricted cash and cash equivalents, beginning balances",2023,24977.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,General,"Cash, cash equivalents, and restricted cash and cash equivalents, beginning balances",2022,35929.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Operating activities,Net income,2024,93736.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Operating activities,Net income,2023,96995.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Operating activities,Net income,2022,99803.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Operating activities,Depreciation and amortization,2024,11445.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Operating activities,Depreciation and amortization,2023,11519.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Operating activities,Depreciation and amortization,2022,11104.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Operating activities,Share-based compensation expense,2024,11688.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Operating activities,Share-based compensation expense,2023,10833.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Operating activities,Share-based compensation expense,2022,9038.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Operating activities,Other,2024,-2266.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Operating activities,Other,2023,-2227.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Operating activities,Other,2022,1006.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Operating activities,"Accounts receivable, net",2024,-3788.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Operating activities,"Accounts receivable, net",2023,-1688.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Operating activities,"Accounts receivable, net",2022,-1823.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Operating activities,Vendor non-trade receivables,2024,-1356.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Operating activities,Vendor non-trade receivables,2023,1271.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Operating activities,Vendor non-trade receivables,2022,-7520.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Operating activities,Inventories,2024,-1046.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Operating activities,Inventories,2023,-1618.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Operating activities,Inventories,2022,1484.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Operating activities,Other current and non-current assets,2024,-11731.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Operating activities,Other current and non-current assets,2023,-5684.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Operating activities,Other current and non-current assets,2022,-6499.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Operating activities,Accounts payable,2024,6020.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Operating activities,Accounts payable,2023,-1889.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Operating activities,Accounts payable,2022,9448.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Operating activities,Other current and non-current liabilities,2024,15552.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Operating activities,Other current and non-current liabilities,2023,3031.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Operating activities,Other current and non-current liabilities,2022,6110.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Operating activities,Cash generated by operating activities,2024,118254.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Operating activities,Cash generated by operating activities,2023,110543.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Operating activities,Cash generated by operating activities,2022,122151.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Investing activities,Purchases of marketable securities,2024,-48656.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Investing activities,Purchases of marketable securities,2023,-29513.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Investing activities,Purchases of marketable securities,2022,-76923.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Investing activities,Proceeds from maturities of marketable securities,2024,51211.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Investing activities,Proceeds from maturities of marketable securities,2023,39686.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Investing activities,Proceeds from maturities of marketable securities,2022,29917.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Investing activities,Proceeds from sales of marketable securities,2024,11135.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Investing activities,Proceeds from sales of marketable securities,2023,5828.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Investing activities,Proceeds from sales of marketable securities,2022,37446.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Investing activities,"Payments for acquisition of property, plant and equipment",2024,-9447.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Investing activities,"Payments for acquisition of property, plant and equipment",2023,-10959.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Investing activities,"Payments for acquisition of property, plant and equipment",2022,-10708.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Investing activities,Other,2024,-1308.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Investing activities,Other,2023,-1337.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Investing activities,Other,2022,-2086.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Investing activities,Cash generated by/(used in) investing activities,2024,2935.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Investing activities,Cash generated by/(used in) investing activities,2023,3705.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Investing activities,Cash generated by/(used in) investing activities,2022,-22354.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Financing activities,Payments for taxes related to net share settlement of equity awards,2024,-5441.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Financing activities,Payments for taxes related to net share settlement of equity awards,2023,-5431.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Financing activities,Payments for taxes related to net share settlement of equity awards,2022,-6223.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Financing activities,Payments for dividends and dividend equivalents,2024,-15234.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Financing activities,Payments for dividends and dividend equivalents,2023,-15025.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Financing activities,Payments for dividends and dividend equivalents,2022,-14841.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Financing activities,Repurchases of common stock,2024,-94949.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Financing activities,Repurchases of common stock,2023,-77550.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Financing activities,Repurchases of common stock,2022,-89402.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Financing activities,"Proceeds from issuance of term debt, net",2023,5228.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Financing activities,"Proceeds from issuance of term debt, net",2022,5465.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Financing activities,Repayments of term debt,2024,-9958.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Financing activities,Repayments of term debt,2023,-11151.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Financing activities,Repayments of term debt,2022,-9543.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Financing activities,"Proceeds from/(Repayments of) commercial paper, net",2024,3960.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Financing activities,"Proceeds from/(Repayments of) commercial paper, net",2023,-3978.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Financing activities,"Proceeds from/(Repayments of) commercial paper, net",2022,3955.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Financing activities,Other,2024,-361.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Financing activities,Other,2023,-581.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Financing activities,Other,2022,-160.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Financing activities,Cash used in financing activities,2024,-121983.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Financing activities,Cash used in financing activities,2023,-108488.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Financing activities,Cash used in financing activities,2022,-110749.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,General,"Increase/(Decrease) in cash, cash equivalents, and restricted cash and cash equivalents",2024,-794.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,General,"Increase/(Decrease) in cash, cash equivalents, and restricted cash and cash equivalents",2023,5760.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,General,"Increase/(Decrease) in cash, cash equivalents, and restricted cash and cash equivalents",2022,-10952.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,General,"Cash, cash equivalents, and restricted cash and cash equivalents, ending balances",2024,29943.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,General,"Cash, cash equivalents, and restricted cash and cash equivalents, ending balances",2023,30737.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,General,"Cash, cash equivalents, and restricted cash and cash equivalents, ending balances",2022,24977.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Supplemental cash flow disclosure,"Cash paid for income taxes, net",2024,26102.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Supplemental cash flow disclosure,"Cash paid for income taxes, net",2023,18679.0,USD millions,Apple_2024.pdf
+Apple,Cash Flow Statement,Supplemental cash flow disclosure,"Cash paid for income taxes, net",2022,19573.0,USD millions,Apple_2024.pdf
+Apple,Income Statement,Net sales,Products,2025,307003.0,USD millions,Apple_2025.pdf
+Apple,Income Statement,Net sales,Services,2025,109158.0,USD millions,Apple_2025.pdf
+Apple,Income Statement,Net sales,Total net sales,2025,416161.0,USD millions,Apple_2025.pdf
+Apple,Income Statement,Cost of sales,Products,2025,194116.0,USD millions,Apple_2025.pdf
+Apple,Income Statement,Cost of sales,Services,2025,26844.0,USD millions,Apple_2025.pdf
+Apple,Income Statement,Cost of sales,Total cost of sales,2025,220960.0,USD millions,Apple_2025.pdf
+Apple,Income Statement,Cost of sales,Gross margin,2025,195201.0,USD millions,Apple_2025.pdf
+Apple,Income Statement,Cost of sales,Gross margin,2024,180683.0,USD millions,Apple_2025.pdf
+Apple,Income Statement,Cost of sales,Gross margin,2023,169148.0,USD millions,Apple_2025.pdf
+Apple,Income Statement,Operating expenses,Research and development,2025,34550.0,USD millions,Apple_2025.pdf
+Apple,Income Statement,Operating expenses,"Selling, general and administrative",2025,27601.0,USD millions,Apple_2025.pdf
+Apple,Income Statement,Operating expenses,Total operating expenses,2025,62151.0,USD millions,Apple_2025.pdf
+Apple,Income Statement,Operating expenses,Operating income,2025,133050.0,USD millions,Apple_2025.pdf
+Apple,Income Statement,Operating expenses,Operating income,2024,123216.0,USD millions,Apple_2025.pdf
+Apple,Income Statement,Operating expenses,Operating income,2023,114301.0,USD millions,Apple_2025.pdf
+Apple,Income Statement,General,"Other income/(expense), net",2025,-321.0,USD millions,Apple_2025.pdf
+Apple,Income Statement,General,Income before provision for income taxes,2025,132729.0,USD millions,Apple_2025.pdf
+Apple,Income Statement,General,Provision for income taxes,2025,20719.0,USD millions,Apple_2025.pdf
+Apple,Income Statement,General,Net income,2025,112010.0,USD millions,Apple_2025.pdf
+Apple,Income Statement,Earnings per share,Basic,2025,7.49,USD per share,Apple_2025.pdf
+Apple,Income Statement,Earnings per share,Diluted,2025,7.46,USD per share,Apple_2025.pdf
+Apple,Income Statement,Shares used in computing earnings per share,Basic,2025,14948500.0,shares in thousands,Apple_2025.pdf
+Apple,Income Statement,Shares used in computing earnings per share,Diluted,2025,15004697.0,shares in thousands,Apple_2025.pdf
+Apple,Balance Sheet,Current assets,Cash and cash equivalents,2025,35934.0,USD millions,Apple_2025.pdf
+Apple,Balance Sheet,Current assets,Marketable securities,2025,18763.0,USD millions,Apple_2025.pdf
+Apple,Balance Sheet,Current assets,"Accounts receivable, net",2025,39777.0,USD millions,Apple_2025.pdf
+Apple,Balance Sheet,Current assets,Vendor non-trade receivables,2025,33180.0,USD millions,Apple_2025.pdf
+Apple,Balance Sheet,Current assets,Inventories,2025,5718.0,USD millions,Apple_2025.pdf
+Apple,Balance Sheet,Current assets,Other current assets,2025,14585.0,USD millions,Apple_2025.pdf
+Apple,Balance Sheet,Current assets,Total current assets,2025,147957.0,USD millions,Apple_2025.pdf
+Apple,Balance Sheet,Non-current assets,Marketable securities,2025,77723.0,USD millions,Apple_2025.pdf
+Apple,Balance Sheet,Non-current assets,"Property, plant and equipment, net",2025,49834.0,USD millions,Apple_2025.pdf
+Apple,Balance Sheet,Non-current assets,Other non-current assets,2025,83727.0,USD millions,Apple_2025.pdf
+Apple,Balance Sheet,Non-current assets,Total non-current assets,2025,211284.0,USD millions,Apple_2025.pdf
+Apple,Balance Sheet,Non-current assets,Total assets,2025,359241.0,USD millions,Apple_2025.pdf
+Apple,Balance Sheet,Non-current assets,Total assets,2024,364980.0,USD millions,Apple_2025.pdf
+Apple,Balance Sheet,Current liabilities,Accounts payable,2025,69860.0,USD millions,Apple_2025.pdf
+Apple,Balance Sheet,Current liabilities,Other current liabilities,2025,66387.0,USD millions,Apple_2025.pdf
+Apple,Balance Sheet,Current liabilities,Deferred revenue,2025,9055.0,USD millions,Apple_2025.pdf
+Apple,Balance Sheet,Current liabilities,Commercial paper,2025,7979.0,USD millions,Apple_2025.pdf
+Apple,Balance Sheet,Current liabilities,Term debt,2025,12350.0,USD millions,Apple_2025.pdf
+Apple,Balance Sheet,Current liabilities,Total current liabilities,2025,165631.0,USD millions,Apple_2025.pdf
+Apple,Balance Sheet,Non-current liabilities,Term debt,2025,78328.0,USD millions,Apple_2025.pdf
+Apple,Balance Sheet,Non-current liabilities,Other non-current liabilities,2025,41549.0,USD millions,Apple_2025.pdf
+Apple,Balance Sheet,Non-current liabilities,Total non-current liabilities,2025,119877.0,USD millions,Apple_2025.pdf
+Apple,Balance Sheet,Non-current liabilities,Total liabilities,2025,285508.0,USD millions,Apple_2025.pdf
+Apple,Balance Sheet,Non-current liabilities,Total liabilities,2024,308030.0,USD millions,Apple_2025.pdf
+Apple,Balance Sheet,Shareholders’ equity,Common stock and additional paid-in capital,2025,93568.0,USD millions,Apple_2025.pdf
+Apple,Balance Sheet,Shareholders’ equity,Common stock and additional paid-in capital,2024,83276.0,USD millions,Apple_2025.pdf
+Apple,Balance Sheet,Shareholders’ equity,Common stock and additional paid-in capital - shares issued and outstanding,2025,14773260.0,shares in thousands,Apple_2025.pdf
+Apple,Balance Sheet,Shareholders’ equity,Common stock and additional paid-in capital - shares issued and outstanding,2024,15116786.0,shares in thousands,Apple_2025.pdf
+Apple,Balance Sheet,Shareholders’ equity,Accumulated deficit,2025,-14264.0,USD millions,Apple_2025.pdf
+Apple,Balance Sheet,Shareholders’ equity,Accumulated other comprehensive loss,2025,-5571.0,USD millions,Apple_2025.pdf
+Apple,Balance Sheet,Shareholders’ equity,Total shareholders’ equity,2025,73733.0,USD millions,Apple_2025.pdf
+Apple,Balance Sheet,Shareholders’ equity,Total liabilities and shareholders’ equity,2025,359241.0,USD millions,Apple_2025.pdf
+Apple,Balance Sheet,Shareholders’ equity,Total liabilities and shareholders’ equity,2024,364980.0,USD millions,Apple_2025.pdf
+Apple,Cash Flow Statement,General,"Cash, cash equivalents, and restricted cash and cash equivalents, beginning balances",2025,29943.0,USD millions,Apple_2025.pdf
+Apple,Cash Flow Statement,Operating activities,Net income,2025,112010.0,USD millions,Apple_2025.pdf
+Apple,Cash Flow Statement,Operating activities,Depreciation and amortization,2025,11698.0,USD millions,Apple_2025.pdf
+Apple,Cash Flow Statement,Operating activities,Share-based compensation expense,2025,12863.0,USD millions,Apple_2025.pdf
+Apple,Cash Flow Statement,Operating activities,Other,2025,-89.0,USD millions,Apple_2025.pdf
+Apple,Cash Flow Statement,Operating activities,"Accounts receivable, net",2025,-6682.0,USD millions,Apple_2025.pdf
+Apple,Cash Flow Statement,Operating activities,Vendor non-trade receivables,2025,-347.0,USD millions,Apple_2025.pdf
+Apple,Cash Flow Statement,Operating activities,Inventories,2025,1400.0,USD millions,Apple_2025.pdf
+Apple,Cash Flow Statement,Operating activities,Other current and non-current assets,2025,-9197.0,USD millions,Apple_2025.pdf
+Apple,Cash Flow Statement,Operating activities,Accounts payable,2025,902.0,USD millions,Apple_2025.pdf
+Apple,Cash Flow Statement,Operating activities,Other current and non-current liabilities,2025,-11076.0,USD millions,Apple_2025.pdf
+Apple,Cash Flow Statement,Operating activities,Cash generated by operating activities,2025,111482.0,USD millions,Apple_2025.pdf
+Apple,Cash Flow Statement,Investing activities,Purchases of marketable securities,2025,-24407.0,USD millions,Apple_2025.pdf
+Apple,Cash Flow Statement,Investing activities,Proceeds from maturities of marketable securities,2025,40907.0,USD millions,Apple_2025.pdf
+Apple,Cash Flow Statement,Investing activities,Proceeds from sales of marketable securities,2025,12890.0,USD millions,Apple_2025.pdf
+Apple,Cash Flow Statement,Investing activities,"Payments for acquisition of property, plant and equipment",2025,-12715.0,USD millions,Apple_2025.pdf
+Apple,Cash Flow Statement,Investing activities,Other,2025,-1480.0,USD millions,Apple_2025.pdf
+Apple,Cash Flow Statement,Investing activities,Cash generated by investing activities,2025,15195.0,USD millions,Apple_2025.pdf
+Apple,Cash Flow Statement,Investing activities,Cash generated by investing activities,2024,2935.0,USD millions,Apple_2025.pdf
+Apple,Cash Flow Statement,Investing activities,Cash generated by investing activities,2023,3705.0,USD millions,Apple_2025.pdf
+Apple,Cash Flow Statement,Financing activities,Payments for taxes related to net share settlement of equity awards,2025,-5960.0,USD millions,Apple_2025.pdf
+Apple,Cash Flow Statement,Financing activities,Payments for dividends and dividend equivalents,2025,-15421.0,USD millions,Apple_2025.pdf
+Apple,Cash Flow Statement,Financing activities,Repurchases of common stock,2025,-90711.0,USD millions,Apple_2025.pdf
+Apple,Cash Flow Statement,Financing activities,"Proceeds from issuance of term debt, net",2025,4481.0,USD millions,Apple_2025.pdf
+Apple,Cash Flow Statement,Financing activities,Repayments of term debt,2025,-10932.0,USD millions,Apple_2025.pdf
+Apple,Cash Flow Statement,Financing activities,"Proceeds from/(Repayments of) commercial paper, net",2025,-2032.0,USD millions,Apple_2025.pdf
+Apple,Cash Flow Statement,Financing activities,Other,2025,-111.0,USD millions,Apple_2025.pdf
+Apple,Cash Flow Statement,Financing activities,Cash used in financing activities,2025,-120686.0,USD millions,Apple_2025.pdf
+Apple,Cash Flow Statement,General,"Increase/(Decrease) in cash, cash equivalents, and restricted cash and cash equivalents",2025,5991.0,USD millions,Apple_2025.pdf
+Tesla,Income Statement,Revenues,Automotive sales,2024,72480.0,USD millions,Tesla_2024.pdf
+Tesla,Balance Sheet,Current assets,Cash and cash equivalents,2024,16139.0,USD millions,Tesla_2024.pdf
+Tesla,Balance Sheet,Current assets,Cash and cash equivalents,2023,16398.0,USD millions,Tesla_2024.pdf
+Tesla,Balance Sheet,Current assets,Short-term investments,2024,20424.0,USD millions,Tesla_2024.pdf
+Tesla,Balance Sheet,Current assets,Short-term investments,2023,12696.0,USD millions,Tesla_2024.pdf
+Tesla,Balance Sheet,Current assets,"Accounts receivable, net",2024,4418.0,USD millions,Tesla_2024.pdf
+Tesla,Cash Flow Statement,Cash Flows from Operating Activities,Net income,2024,7153.0,USD millions,Tesla_2024.pdf
+Tesla,Cash Flow Statement,Cash Flows from Operating Activities,Net income,2023,14974.0,USD millions,Tesla_2024.pdf
+Tesla,Cash Flow Statement,Cash Flows from Operating Activities,Net income,2022,12587.0,USD millions,Tesla_2024.pdf
+Tesla,Cash Flow Statement,Cash Flows from Operating Activities,"Depreciation, amortization and impairment",2024,5368.0,USD millions,Tesla_2024.pdf
+Tesla,Cash Flow Statement,Cash Flows from Operating Activities,"Depreciation, amortization and impairment",2023,4667.0,USD millions,Tesla_2024.pdf
+Tesla,Income Statement,Revenues,Automotive sales,2023,78509.0,USD millions,Tesla_2024.pdf
+Tesla,Income Statement,Revenues,Automotive sales,2022,67210.0,USD millions,Tesla_2024.pdf
+Tesla,Income Statement,Revenues,Automotive regulatory credits,2024,2763.0,USD millions,Tesla_2024.pdf
+Tesla,Income Statement,Revenues,Automotive regulatory credits,2023,1790.0,USD millions,Tesla_2024.pdf
+Tesla,Income Statement,Revenues,Automotive regulatory credits,2022,1776.0,USD millions,Tesla_2024.pdf
+Tesla,Income Statement,Revenues,Automotive leasing,2024,1827.0,USD millions,Tesla_2024.pdf
+Tesla,Income Statement,Revenues,Automotive leasing,2023,2120.0,USD millions,Tesla_2024.pdf
+Tesla,Income Statement,Revenues,Automotive leasing,2022,2476.0,USD millions,Tesla_2024.pdf
+Tesla,Income Statement,Revenues,Total automotive revenues,2024,77070.0,USD millions,Tesla_2024.pdf
+Tesla,Income Statement,Revenues,Total automotive revenues,2023,82419.0,USD millions,Tesla_2024.pdf
+Tesla,Income Statement,Revenues,Total automotive revenues,2022,71462.0,USD millions,Tesla_2024.pdf
+Tesla,Income Statement,Revenues,Energy generation and storage,2024,10086.0,USD millions,Tesla_2024.pdf
+Tesla,Income Statement,Revenues,Energy generation and storage,2023,6035.0,USD millions,Tesla_2024.pdf
+Tesla,Income Statement,Revenues,Energy generation and storage,2022,3909.0,USD millions,Tesla_2024.pdf
+Tesla,Income Statement,Revenues,Services and other,2024,10534.0,USD millions,Tesla_2024.pdf
+Tesla,Income Statement,Revenues,Services and other,2023,8319.0,USD millions,Tesla_2024.pdf
+Tesla,Income Statement,Revenues,Services and other,2022,6091.0,USD millions,Tesla_2024.pdf
+Tesla,Income Statement,Revenues,Total revenues,2024,97690.0,USD millions,Tesla_2024.pdf
+Tesla,Income Statement,Revenues,Total revenues,2023,96773.0,USD millions,Tesla_2024.pdf
+Tesla,Income Statement,Revenues,Total revenues,2022,81462.0,USD millions,Tesla_2024.pdf
+Tesla,Income Statement,Cost of revenues,Automotive sales,2024,61870.0,USD millions,Tesla_2024.pdf
+Tesla,Income Statement,Cost of revenues,Automotive sales,2023,65121.0,USD millions,Tesla_2024.pdf
+Tesla,Income Statement,Cost of revenues,Automotive sales,2022,49599.0,USD millions,Tesla_2024.pdf
+Tesla,Income Statement,Cost of revenues,Automotive leasing,2024,1003.0,USD millions,Tesla_2024.pdf
+Tesla,Income Statement,Cost of revenues,Automotive leasing,2023,1268.0,USD millions,Tesla_2024.pdf
+Tesla,Income Statement,Cost of revenues,Automotive leasing,2022,1509.0,USD millions,Tesla_2024.pdf
+Tesla,Income Statement,Cost of revenues,Total automotive cost of revenues,2024,62873.0,USD millions,Tesla_2024.pdf
+Tesla,Income Statement,Cost of revenues,Total automotive cost of revenues,2023,66389.0,USD millions,Tesla_2024.pdf
+Tesla,Income Statement,Cost of revenues,Total automotive cost of revenues,2022,51108.0,USD millions,Tesla_2024.pdf
+Tesla,Balance Sheet,Current assets,"Accounts receivable, net",2023,3508.0,USD millions,Tesla_2024.pdf
+Tesla,Balance Sheet,Current assets,Inventory,2024,12017.0,USD millions,Tesla_2024.pdf
+Tesla,Balance Sheet,Current assets,Inventory,2023,13626.0,USD millions,Tesla_2024.pdf
+Tesla,Balance Sheet,Current assets,Prepaid expenses and other current assets,2024,5362.0,USD millions,Tesla_2024.pdf
+Tesla,Balance Sheet,Current assets,Prepaid expenses and other current assets,2023,3388.0,USD millions,Tesla_2024.pdf
+Tesla,Balance Sheet,Current assets,Total current assets,2024,58360.0,USD millions,Tesla_2024.pdf
+Tesla,Balance Sheet,Current assets,Total current assets,2023,49616.0,USD millions,Tesla_2024.pdf
+Tesla,Balance Sheet,Assets,"Operating lease vehicles, net",2024,5581.0,USD millions,Tesla_2024.pdf
+Tesla,Balance Sheet,Assets,"Operating lease vehicles, net",2023,5989.0,USD millions,Tesla_2024.pdf
+Tesla,Balance Sheet,Assets,"Solar energy systems, net",2024,4924.0,USD millions,Tesla_2024.pdf
+Tesla,Balance Sheet,Assets,"Solar energy systems, net",2023,5229.0,USD millions,Tesla_2024.pdf
+Tesla,Balance Sheet,Assets,"Property, plant and equipment, net",2024,35836.0,USD millions,Tesla_2024.pdf
+Tesla,Balance Sheet,Assets,"Property, plant and equipment, net",2023,29725.0,USD millions,Tesla_2024.pdf
+Tesla,Balance Sheet,Assets,Operating lease right-of-use assets,2024,5160.0,USD millions,Tesla_2024.pdf
+Tesla,Balance Sheet,Assets,Operating lease right-of-use assets,2023,4180.0,USD millions,Tesla_2024.pdf
+Tesla,Balance Sheet,Assets,"Digital assets, net",2024,1076.0,USD millions,Tesla_2024.pdf
+Tesla,Balance Sheet,Assets,"Digital assets, net",2023,184.0,USD millions,Tesla_2024.pdf
+Tesla,Balance Sheet,Assets,"Intangible assets, net",2024,150.0,USD millions,Tesla_2024.pdf
+Tesla,Balance Sheet,Assets,"Intangible assets, net",2023,178.0,USD millions,Tesla_2024.pdf
+Tesla,Balance Sheet,Assets,Goodwill,2024,244.0,USD millions,Tesla_2024.pdf
+Tesla,Balance Sheet,Assets,Goodwill,2023,253.0,USD millions,Tesla_2024.pdf
+Tesla,Balance Sheet,Assets,Deferred tax assets,2024,6524.0,USD millions,Tesla_2024.pdf
+Tesla,Balance Sheet,Assets,Deferred tax assets,2023,6733.0,USD millions,Tesla_2024.pdf
+Tesla,Balance Sheet,Assets,Other non-current assets,2024,4215.0,USD millions,Tesla_2024.pdf
+Tesla,Balance Sheet,Assets,Other non-current assets,2023,4531.0,USD millions,Tesla_2024.pdf
+Tesla,Balance Sheet,Assets,Total assets,2024,122070.0,USD millions,Tesla_2024.pdf
+Tesla,Balance Sheet,Assets,Total assets,2023,106618.0,USD millions,Tesla_2024.pdf
+Tesla,Balance Sheet,Current liabilities,Accounts payable,2024,12474.0,USD millions,Tesla_2024.pdf
+Tesla,Cash Flow Statement,Cash Flows from Operating Activities,"Depreciation, amortization and impairment",2022,3747.0,USD millions,Tesla_2024.pdf
+Tesla,Cash Flow Statement,Cash Flows from Operating Activities,Stock-based compensation,2024,1999.0,USD millions,Tesla_2024.pdf
+Tesla,Cash Flow Statement,Cash Flows from Operating Activities,Stock-based compensation,2023,1812.0,USD millions,Tesla_2024.pdf
+Tesla,Cash Flow Statement,Cash Flows from Operating Activities,Stock-based compensation,2022,1560.0,USD millions,Tesla_2024.pdf
+Tesla,Cash Flow Statement,Cash Flows from Operating Activities,Inventory and purchase commitments write-downs,2024,335.0,USD millions,Tesla_2024.pdf
+Tesla,Cash Flow Statement,Cash Flows from Operating Activities,Inventory and purchase commitments write-downs,2023,463.0,USD millions,Tesla_2024.pdf
+Tesla,Cash Flow Statement,Cash Flows from Operating Activities,Inventory and purchase commitments write-downs,2022,177.0,USD millions,Tesla_2024.pdf
+Tesla,Cash Flow Statement,Cash Flows from Operating Activities,Foreign currency transaction net unrealized (gain) loss,2024,-73.0,USD millions,Tesla_2024.pdf
+Tesla,Cash Flow Statement,Cash Flows from Operating Activities,Foreign currency transaction net unrealized (gain) loss,2023,-144.0,USD millions,Tesla_2024.pdf
+Tesla,Cash Flow Statement,Cash Flows from Operating Activities,Foreign currency transaction net unrealized (gain) loss,2022,81.0,USD millions,Tesla_2024.pdf
+Tesla,Cash Flow Statement,Cash Flows from Operating Activities,Deferred income taxes,2024,477.0,USD millions,Tesla_2024.pdf
+Tesla,Cash Flow Statement,Cash Flows from Operating Activities,Deferred income taxes,2023,-6349.0,USD millions,Tesla_2024.pdf
+Tesla,Cash Flow Statement,Cash Flows from Operating Activities,Deferred income taxes,2022,-196.0,USD millions,Tesla_2024.pdf
+Tesla,Cash Flow Statement,Cash Flows from Operating Activities,Non-cash interest and other operating activities,2024,172.0,USD millions,Tesla_2024.pdf
+Tesla,Cash Flow Statement,Cash Flows from Operating Activities,Non-cash interest and other operating activities,2023,81.0,USD millions,Tesla_2024.pdf
+Tesla,Cash Flow Statement,Cash Flows from Operating Activities,Non-cash interest and other operating activities,2022,340.0,USD millions,Tesla_2024.pdf
+Tesla,Cash Flow Statement,Cash Flows from Operating Activities,"Digital assets (gain) loss, net",2024,-589.0,USD millions,Tesla_2024.pdf
+Tesla,Cash Flow Statement,Cash Flows from Operating Activities,"Digital assets (gain) loss, net",2022,140.0,USD millions,Tesla_2024.pdf
+Tesla,Cash Flow Statement,Changes in operating assets and liabilities,Accounts receivable,2024,-1083.0,USD millions,Tesla_2024.pdf
+Tesla,Cash Flow Statement,Changes in operating assets and liabilities,Accounts receivable,2023,-586.0,USD millions,Tesla_2024.pdf
+Tesla,Cash Flow Statement,Changes in operating assets and liabilities,Accounts receivable,2022,-1124.0,USD millions,Tesla_2024.pdf
+Tesla,Cash Flow Statement,Changes in operating assets and liabilities,Inventory,2024,937.0,USD millions,Tesla_2024.pdf
+Tesla,Cash Flow Statement,Changes in operating assets and liabilities,Inventory,2023,-1195.0,USD millions,Tesla_2024.pdf
+Tesla,Cash Flow Statement,Changes in operating assets and liabilities,Inventory,2022,-6465.0,USD millions,Tesla_2024.pdf
+Tesla,Cash Flow Statement,Changes in operating assets and liabilities,Operating lease vehicles,2024,-590.0,USD millions,Tesla_2024.pdf
+Tesla,Cash Flow Statement,Changes in operating assets and liabilities,Operating lease vehicles,2023,-1952.0,USD millions,Tesla_2024.pdf
+Tesla,Cash Flow Statement,Changes in operating assets and liabilities,Operating lease vehicles,2022,-1570.0,USD millions,Tesla_2024.pdf
+Tesla,Cash Flow Statement,Changes in operating assets and liabilities,Prepaid expenses and other assets,2024,-3273.0,USD millions,Tesla_2024.pdf
+Apple,Income Statement,Cost of sales,Gross margin,2022,170782.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Non-current assets,Total assets,2023,352583.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Non-current liabilities,Total liabilities,2023,290437.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Shareholders’ equity,Common stock and additional paid-in capital,2023,73812.0,USD millions,Apple_2024.pdf
+Apple,Balance Sheet,Shareholders’ equity,Shares issued and outstanding,2024,15116786.0,shares in thousands,Apple_2024.pdf
+Apple,Balance Sheet,Shareholders’ equity,Shares issued and outstanding,2023,15550061.0,shares in thousands,Apple_2024.pdf
+Apple,Balance Sheet,Shareholders’ equity,Total liabilities and shareholders’ equity,2023,352583.0,USD millions,Apple_2024.pdf

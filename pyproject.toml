@@ -1,0 +1,23 @@
+[project]
+name = "fiscallens"
+version = "0.1.0"
+description = "Agentic RAG assistant for analyzing company annual reports, combining document search with structured financial data extraction and calculation tools."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain==0.2.16",
+    "langchain-core==0.2.38",
+    "langchain-community==0.2.16",
+    "langchain-groq==0.1.9",
+    "langchain-text-splitters==0.2.4",
+    "langchain-huggingface==0.0.3",
+    "faiss-cpu>=1.7.4",
+    "gradio>=4.20.0",
+    "pypdf>=4.0.1",
+    "pdfplumber>=0.11.0",
+    "python-docx>=1.1.0",
+    "pandas>=2.1.0",
+    "openpyxl>=3.1.2",
+    "sentence-transformers>=2.5.1",
+    "python-dotenv>=1.0.1",
+]
